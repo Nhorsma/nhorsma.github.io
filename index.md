@@ -6,6 +6,7 @@ This page contains some of my most notable game projects I have worked on in my 
 
 ### Mr. Sushi
 ![MrSushi](nhorsma.github.io/mr_sushi_small.png "Mr Sushi Logo")
+![MrSushi](nhorsma.github.io/SushiGame.png "Mr Sushi Game")
 
 Download for Windows: [Mr Sushi for Windows](nhorsma.github.io/Mr Sushi for Windows.zip "Mr Sushi Build")
 
@@ -16,6 +17,7 @@ _Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/
 
 ### Ten Gallon Tussle
 ![TenGallonTussle](nhorsma.github.io/TenGallonTustleTitle_small.png "Ten Gallon Tussle Logo")
+![TenGallonTussle](nhorsma.github.io/TenGallonGame.png "Ten Gallon Tussle Game")
 
 Download for Windows: [Ten Gallon Tussle for Windows](nhorsma.github.io/TenGallonTussleBuild.zip "Ten Gallon Tussle Build")
 
