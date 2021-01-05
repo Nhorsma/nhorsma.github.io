@@ -2,13 +2,19 @@
 
 I am a graduate of Kennesaw State University with a bachelors in Computer Game Design and Development. I have a passion for making video games and exploring how games engage their players and create a fun experience.
 
-This page contains some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at [editor on GitHub](https://github.com/Nhorsma/nhorsma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page contains some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mr. Sushi
 
-### Markdown
+_Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Click and Drag sushi coming down the belt into the black trays below based on the instructions above the belt, then click and drag the completed tray down to collect points.
+_Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Ten Gallon Tussle
+![TenGallonTussle](
+_Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar full of dastardly desparadoes by reaching the the door across the room. Movement is with WASD, aim your mouse to aim and shoot.
+_Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalow@gmail.com**.
+
 
 ```markdown
 Syntax highlighted code block
