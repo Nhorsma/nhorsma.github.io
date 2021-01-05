@@ -13,9 +13,9 @@ _Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/
 
 
 ### Ten Gallon Tussle
-![TenGallonTussle](nhorsma.github.io/TenGallonTustleTitle.png "Ten Gallong Tussle Logo")
+![TenGallonTussle](nhorsma.github.io/TenGallonTustleTitle.png "Ten Gallon Tussle Logo")
 
-Download for Windows: [TenGallonTussleBuild(nhorsma.github.io/TenGallonTussleBuild.zip)
+Download for Windows: [TenGallonTussleBuild(nhorsma.github.io/TenGallonTussleBuild.zip "Ten Gallon Tussle Build")
 
 _Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar full of dastardly desparadoes by reaching the the door across the room. Movement is with WASD, aim your mouse to aim and shoot.
 
