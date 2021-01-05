@@ -5,6 +5,7 @@ I am a graduate of Kennesaw State University with a bachelors in Computer Game D
 This page contains some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
 
 ### Mr. Sushi
+![MrSushi](nhorsma.github.io/mr_sushi_v2.png "Mr Sushi Logo")
 
 _Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Click and Drag sushi coming down the belt into the black trays below based on the instructions above the belt, then click and drag the completed tray down to collect points.
 
@@ -13,6 +14,7 @@ _Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/
 
 ### Ten Gallon Tussle
 ![TenGallonTussle](nhorsma.github.io/TenGallonTustleTitle.png "Ten Gallong Tussle Logo")
+[TenGallonTussleBuild(nhorsma.github.io/TengallonTussleBuild)
 
 _Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar full of dastardly desparadoes by reaching the the door across the room. Movement is with WASD, aim your mouse to aim and shoot.
 
