@@ -7,12 +7,15 @@ This page contains some of my most notable game projects I have worked on in my 
 ### Mr. Sushi
 
 _Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Click and Drag sushi coming down the belt into the black trays below based on the instructions above the belt, then click and drag the completed tray down to collect points.
+
 _Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
 
 ### Ten Gallon Tussle
 ![TenGallonTussle](/assets/img/TenGallonTustleTitle.png "Ten Gallon Tussle Logo")
+
 _Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar full of dastardly desparadoes by reaching the the door across the room. Movement is with WASD, aim your mouse to aim and shoot.
+
 _Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalow@gmail.com**.
 
 
