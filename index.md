@@ -1,6 +1,8 @@
 ## Welcome to my Portfolio!
 
-If anything catches your eye, feel free to contact me at [editor on GitHub](https://github.com/Nhorsma/nhorsma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate of Kennesaw State University with a bachelors in Computer Game Design and Development. I have a passion for making video games and exploring how games engage their players and create a fun experience.
+
+This page contains some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at [editor on GitHub](https://github.com/Nhorsma/nhorsma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
