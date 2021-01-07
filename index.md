@@ -39,12 +39,13 @@ _Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar ful
 _Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalow@gmail.com**.
 
 
+
 ## 3D Modeling
 I also have experience with 3D modeling in Maya, I have made most of the models for the game _Dead Engines_ myself as well as the models for another class project called _Schwer_.
 
 ### Schwer Models
 ![Schwer1](nhorsma.github.io/NPCs_Final.png "NPCs")
-![Schwer2](nhorsma.github.io/DetachmentScreenshot2.png "fox")
+![Schwer2](nhorsma.github.io/Detachment Screenshot 2.png "fox")
 ![Schwer3](nhorsma.github.io/SchwerBuildings_screenshot.png "buildings")
 
 These are some of the models I produced for the project _Schwer_, which include (from left to right) the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
