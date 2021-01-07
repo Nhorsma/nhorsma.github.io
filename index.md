@@ -2,7 +2,7 @@
 
 I am a graduate of Kennesaw State University with a bachelors in Computer Game Design and Development and a minor in Computer Science. I have a passion for making video games and exploring how games engage their players and create a fun experience. My primary experience in game design is in Unity, I also have experience in 3D modeling in Maya and Blender and UI design for applications.
 
-Below are some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
+Below are some of my most notable video game and 3D modeling projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
 
 ## My Games
 
@@ -45,7 +45,7 @@ I also have experience with 3D modeling in Maya, I have made most of the models 
 
 ### Schwer Models
 
-These are some of the models I produced for the project _Schwer_, which include (from left to right) the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
+These are some of the models I produced for the project _Schwer_, which include the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
 ![Schwer1](nhorsma.github.io/NPCs_Final.png "NPCs")
 ![Schwer2](nhorsma.github.io/Detachment Screenshot 2.png "fox")
 ![Schwer3](nhorsma.github.io/SchwerBuildings_screenshot.png "buildings")
@@ -62,10 +62,11 @@ These are some of the more notable models I produced for my studio project _Dead
 
 
 ### Other Models
-These models were made for a 3D modeling class project, each model came with 3 animations and were implimented into the game.
+These models were made for a 3D modeling class project, each model came with 3 animations and were implimented into gameplay. 
 ![3Dmodels1](nhorsma.github.io/SpaceMan_screenshot.png "spaceman")
 ![3Dmodels2](nhorsma.github.io/spider_screenshot.png "spider")
 ![3Dmodels3](nhorsma.github.io/crab_screenshot.png "crab")
+
 
 
 ## Support or Contact
