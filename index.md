@@ -44,16 +44,28 @@ _Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalo
 I also have experience with 3D modeling in Maya, I have made most of the models for the game _Dead Engines_ myself as well as the models for another class project called _Schwer_.
 
 ### Schwer Models
+
+These are some of the models I produced for the project _Schwer_, which include (from left to right) the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
 ![Schwer1](nhorsma.github.io/NPCs_Final.png "NPCs")
 ![Schwer2](nhorsma.github.io/Detachment Screenshot 2.png "fox")
 ![Schwer3](nhorsma.github.io/SchwerBuildings_screenshot.png "buildings")
-
-These are some of the models I produced for the project _Schwer_, which include (from left to right) the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
 
 
 ### Dead Engines Models
 
 These are some of the more notable models I produced for my studio project _Dead Engines_, which includes a massive robot and all it's animations, a marauder encampment, and marauder vehicles.
+![DeadEngine1](nhorsma.github.io/Automoton_Screenshot.png "robot")
+![DeadEngine2](nhorsma.github.io/Encampment_screenshot.png "camp")
+![DeadEngine3](nhorsma.github.io/Mech_screenshot.png "mech")
+![DeadEngine4](nhorsma.github.io/APC_screenshot.png "apc")
+
+
+
+### Other Models
+These models were made for a 3D modeling class project, each model came with 3 animations and were implimented into the game.
+![3Dmodels1](nhorsma.github.io/SpaceMan_screenshot.png "spaceman")
+![3Dmodels2](nhorsma.github.io/spider_screenshot.png "spider")
+![3Dmodels3](nhorsma.github.io/crab_screenshot.png "crab")
 
 
 ## Support or Contact
