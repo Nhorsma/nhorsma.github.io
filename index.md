@@ -16,7 +16,7 @@ Below are some of my most notable video game and 3D modeling projects I have wor
 
 _Dead Engines_ is my senior capstone project, this build is the demo with the rest of the game to be completed by the end of 2021. _Dead Engines_ is a post-apocolyptic strategy game where the player controls a group of settlers who have taken shelter inside of a massive, ancient robot. The player must assign the settlers to collect resources, combat enemy raiders, and re-build the inside of the robot to re-activate it.
 
-The game is divided into two phases, the first phase the player must control individual units to collect metal and electronics to build upgrades and repair the robot. The second phase starts when the robot is reactivated and is controlled by the player. Select individual units or box select them with left click, right click the ground to assign them to move or on resources/enemies to have them extract or attack. When the robot awakens, right click to move the robot and use Q and W to attack. Left click on the robot to manage resources and build rooms, and click '0' to add more resources (for debugging).
+The game is divided into two phases, the first phase the player must control individual units to collect metal and electronics to build upgrades and repair the robot. The second phase starts when the robot is reactivated and is controlled by the player. You can select individual units or box select them and assign them to move, collect resources, or fight enemies. When the robot awakens, the player can take control of the robot and fight bigger enemeies. Left click on the robot to manage resources and build rooms that give bonuses to units and the robot.
 
 _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
@@ -24,7 +24,7 @@ _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.
 ![MrSushi](nhorsma.github.io/SushiGame.png "Mr Sushi Game")
 ![MrSushi](nhorsma.github.io/mr_sushi_main.png "Mr Sushi menu")
 
-_Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Click and Drag sushi coming down the belt into the black trays below based on the instructions above the belt, then click and drag the completed tray down to collect points.
+_Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Pack and organize sushi coming down the belt into the black trays below based on the instructions above the belt, but be fast or else you'll fall behind.
 
 _Mr. Sushi_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
