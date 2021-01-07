@@ -4,6 +4,10 @@ I am a graduate of Kennesaw State University with a bachelors in Computer Game D
 
 Below are some of my most notable game projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
 
+## My Games
+
+
+
 ### Dead Engines
 
 Download for Windows:
@@ -15,7 +19,6 @@ The game is divided into two phases, the first phase the player must control ind
 _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
 ### Mr. Sushi
-![MrSushi](nhorsma.github.io/mr_sushi_small.png "Mr Sushi Logo")
 ![MrSushi](nhorsma.github.io/SushiGame.png "Mr Sushi Game")
 
 Download for Windows: [Mr Sushi for Windows](nhorsma.github.io/Mr Sushi for Windows.zip "Mr Sushi Build")
@@ -35,6 +38,9 @@ _Ten Gallon Tussle_ is a top-down shooter where the player must escape a bar ful
 
 _Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalow@gmail.com**.
 
+
+## 3D Modeling
+I also have experience with 3D modeling in Maya, I have made most of the models for the game _Dead Engines_ myself as well as the models for another class project called _Schwer_.
 
 
 ### Support or Contact
