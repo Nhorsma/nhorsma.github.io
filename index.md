@@ -2,7 +2,7 @@
 
 I am a graduate of Kennesaw State University with a bachelors in Computer Game Design and Development and a minor in Computer Science. I have a passion for making video games and exploring how games engage their players and create a fun experience. My primary experience in game design is in Unity, I also have experience in 3D modeling in Maya and Blender and UI design for applications.
 
-Below are some of my most notable video game and 3D modeling projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
+Below are some of my more notable video game and 3D modeling projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
 
 ## My Games
 
@@ -16,7 +16,7 @@ Below are some of my most notable video game and 3D modeling projects I have wor
 
 _Dead Engines_ is my senior capstone project, this build is the demo with the rest of the game to be completed by the end of 2021. _Dead Engines_ is a post-apocolyptic strategy game where the player controls a group of settlers who have taken shelter inside of a massive, ancient robot. The player must assign the settlers to collect resources, combat enemy raiders, and re-build the inside of the robot to re-activate it.
 
-The game is divided into two phases, the first phase the player must control individual units to collect metal and electronics to build upgrades and repair the robot. The second phase starts when the robot is reactivated and is controlled by the player. You can select individual units or box select them and assign them to move, collect resources, or fight enemies. When the robot awakens, the player can take control of the robot and fight bigger enemeies. Left click on the robot to manage resources and build rooms that give bonuses to units and the robot.
+The game is divided into two phases, the first phase the player must control individual units to collect metal and electronics to build upgrades and repair the robot. The second phase starts when the robot is reactivated and is controlled by the player. You can select individual units or box select them and assign them to move, collect resources, or fight enemies. When the robot awakens, the player can take control of the robot and fight bigger enemies. Left click on the robot to manage resources and build rooms that give bonuses to units and the robot.
 
 _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
