@@ -10,9 +10,9 @@ Below are some of my most notable video game and 3D modeling projects I have wor
 
 ### Dead Engines
 
-![DeadEngines](nhorsma.github/deadengines_screenshot1.png "dead")
-![DeadEngines](nhorsma.github/deadengines_screenshot2.png "dead")
-![DeadEngines](nhorsma.github/deadengines_screenshot3.png "dead")
+![DeadEngines](nhorsma.github.io/deadengines_screenshot1.png "dead")
+![DeadEngines](nhorsma.github.io/deadengines_screenshot1.png "dead")
+![DeadEngines](nhorsma.github.io/deadengines_screenshot1.png "dead")
 
 _Dead Engines_ is my senior capstone project, this build is the demo with the rest of the game to be completed by the end of 2021. _Dead Engines_ is a post-apocolyptic strategy game where the player controls a group of settlers who have taken shelter inside of a massive, ancient robot. The player must assign the settlers to collect resources, combat enemy raiders, and re-build the inside of the robot to re-activate it.
 
@@ -22,7 +22,7 @@ _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.
 
 ### Mr. Sushi
 ![MrSushi](nhorsma.github.io/SushiGame.png "Mr Sushi Game")
-![MrSushi](nhorsma.github.io/mr_sushi_main.png "Mr Sushi menu)
+![MrSushi](nhorsma.github.io/mr_sushi_main.png "Mr Sushi menu")
 
 _Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Click and Drag sushi coming down the belt into the black trays below based on the instructions above the belt, then click and drag the completed tray down to collect points.
 
