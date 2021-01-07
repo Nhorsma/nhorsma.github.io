@@ -42,7 +42,19 @@ _Ten Gallon Tussle_ was made with Chase Randalow, contact him at **chase.randalo
 ## 3D Modeling
 I also have experience with 3D modeling in Maya, I have made most of the models for the game _Dead Engines_ myself as well as the models for another class project called _Schwer_.
 
+### Schwer Models
+![Schwer1](nhorsma.github.io/NPCs_Final.png "NPCs")
+![Schwer2](nhorsma.github.io/DetachmentScreenshot2.png "fox")
+![Schwer3](nhorsma.github.io/SchwerBuildings_screenshot.png "buildings")
 
-### Support or Contact
+These are some of the models I produced for the project _Schwer_, which include (from left to right) the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
+
+
+### Dead Engines Models
+
+These are some of the more notable models I produced for my studio project _Dead Engines_, which includes a massive robot and all it's animations, a marauder encampment, and marauder vehicles.
+
+
+## Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
