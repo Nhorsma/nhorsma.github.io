@@ -2,7 +2,7 @@
 
 I am a senior at Kennesaw State University persuing a bachelors in Computer Game Design & Development and a minor in Computer Science. I have a passion for making video games and exploring how games engage their players and create a fun experience. My primary experience in game design is in Unity, I also have experience in 3D modeling in Maya and Blender and UI design for applications.
 
-Below are some of my more notable video game and 3D modeling projects I have worked on in my time at Kennesaw and during my professional career. If any of these peak your interest, feel free to contact me at **nichorsma@gmail.com**.
+Below are some of my more notable video game and 3D modeling projects I have worked on in my time at Kennesaw and during my professional career. If any of these games peak your interest, feel free to contact me at **nichorsma@gmail.com** and I can provide an executable for you to try for yourself.
 
 ## My Games
 
