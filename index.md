@@ -10,7 +10,7 @@ Below are some of my more notable video game and 3D modeling projects I have wor
 
 ### Dead Engines
 
-![DeadEngines](nhorsma.github.io/deadengines_screenshot1.png)
+![DeadEngines](nhorsma.github.io/blob/main/deadengines_screenshot1.png)
 ![DeadEngines](nhorsma.github.io/deadengines_screenshot2.png)
 ![DeadEngines](nhorsma.github.io/deadengines_screenshot3.png)
 
