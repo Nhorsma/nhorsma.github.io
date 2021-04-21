@@ -21,8 +21,8 @@ The game is divided into two phases, the first phase the player must control ind
 _Dead Engines_ was made with Sarah Miller, see her work at [smillerworks.github.io/porto](https://smillerworks.github.io/porto/).
 
 ### Mr. Sushi
-![MrSushi](nhorsma.github.io/SushiGame.png "Mr Sushi Game")
-![MrSushi](nhorsma.github.io/mr_sushi_main.png "Mr Sushi menu")
+![MrSushi](SushiGame.png "Mr Sushi Game")
+![MrSushi](mr_sushi_main.png "Mr Sushi menu")
 
 _Mr. Sushi_ is a casual game about fullfilling sushi orders from a conveyor belt. Pack and organize sushi coming down the belt into the black trays below based on the instructions above the belt, but be fast or else you'll fall behind.
 
@@ -45,26 +45,26 @@ I also have experience with 3D modeling in Maya, I have made most of the models 
 ### Schwer Models
 
 These are some of the models I produced for the project _Schwer_, which include the game's NPC's, a Firey Fox emerging from a campfire, and the buildings used in the main level.
-![Schwer1](nhorsma.github.io/NPCs_Final.png "NPCs")
-![Schwer2](nhorsma.github.io/Detachment Screenshot 2.png "fox")
-![Schwer3](nhorsma.github.io/SchwerBuildings_screenshot.png "buildings")
+![Schwer1](NPCs_Final.png "NPCs")
+![Schwer2](Detachment Screenshot 2.png "fox")
+![Schwer3](SchwerBuildings_screenshot.png "buildings")
 
 
 ### Dead Engines Models
 
 These are some of the more notable models I produced for my studio project _Dead Engines_, which includes a massive robot and all it's animations, a marauder encampment, and marauder vehicles.
-![DeadEngine1](nhorsma.github.io/Automoton_Screenshot.png "robot")
-![DeadEngine2](nhorsma.github.io/Encampment_screenshot.png "camp")
-![DeadEngine3](nhorsma.github.io/Mech_screenshot.png "mech")
-![DeadEngine4](nhorsma.github.io/APC_screenshot.png "apc")
+![DeadEngine1](Automoton_Screenshot.png "robot")
+![DeadEngine2](Encampment_screenshot.png "camp")
+![DeadEngine3](Mech_screenshot.png "mech")
+![DeadEngine4](APC_screenshot.png "apc")
 
 
 
 ### Other Models
 These models were made for a 3D modeling class project, each model came with 3 animations and were implimented into gameplay. 
-![3Dmodels1](nhorsma.github.io/SpaceMan_screenshot.png "spaceman")
-![3Dmodels2](nhorsma.github.io/spider_screenshot.png "spider")
-![3Dmodels3](nhorsma.github.io/crab_screenshot.png "crab")
+![3Dmodels1](SpaceMan_screenshot.png "spaceman")
+![3Dmodels2](spider_screenshot.png "spider")
+![3Dmodels3](crab_screenshot.png "crab")
 
 
 
